@@ -1,5 +1,7 @@
 body{
-    background-color: white
+    background-color:white;
+    margin: 0;
+    padding: 0;
 }
 .main{
     max-width: 35%;
@@ -9,7 +11,7 @@ body{
 #sign{
     background-color: white;
     margin: 20;
-}
+} 
 img{
     font-size: small;
 }
