@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(14, 12, 15);
+}
+
+.container {
+    text-align: center;
+    margin: 40% 25% 0 25%;
+
+}
+h2 {
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.clock {
+    background-color: orange;
+    font-weight: bolder;
+    font-size:x-large;
+    margin: 0 25% 0 25%;
+    text-align:center;
+    border-radius: 10px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
