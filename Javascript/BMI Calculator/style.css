@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+
+h2 {
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    border: 1px solid ;
+    padding: 20px;
+    margin: 0 25% 0 25%
+}
